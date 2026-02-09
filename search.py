@@ -10,7 +10,7 @@ import sys
 from collections import deque
 
 from utils import *
-
+ 
 
 class Problem:
     """The abstract class for a formal problem. You should subclass
